@@ -101,18 +101,6 @@ App Shopify de gestion de coupons · Thèmes e-commerce personnalisés en Liquid
 
 ---
 
-## 📈 Activité GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YamiUtsukushi&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YamiUtsukushi&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 *Ouvert aux opportunités en Île-de-France ou full remote · Disponible rapidement*
