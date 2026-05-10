@@ -93,6 +93,9 @@ J'ai conçu des applications SaaS de A à Z, développé des thèmes et apps Sho
 
 ## 💼 Expériences
 
+**Développeur FullStack Freelance** — *Indépendant* (Nov. 2025 – aujourd'hui)  
+Réalisation de projets web pour des clients en tant que freelance · Développement front et back selon les besoins · En activité actuellement
+
 **Développeur FullStack** — *Atakama Technologies* (Oct. 2023 – Sept. 2025)  
 Conception d'un portail SaaS de gestion de projets from scratch · Product Ownership · React + Node.js + PostgreSQL + Grafana + Github Actions
 
