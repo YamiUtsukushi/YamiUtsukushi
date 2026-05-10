@@ -17,15 +17,18 @@
 
 ## 🧑‍💻 Qui suis-je ?
 
-Je suis développeur FullStack basé en Île-de-France, avec 2 ans d'expérience en entreprise et un Mastère Bac+5.  
+Je suis développeur FullStack basé en Île-de-France, avec 3 ans d'expérience en entreprise et un Mastère Bac+5.  
 J'ai conçu des applications SaaS de A à Z, développé des thèmes et apps Shopify, et touché à la data et au machine learning.
 
-Je ne connais pas tout parfaitement — mais j'apprends vite et j'aime monter en compétence sur ce que les projets demandent.
+**Ce que je maîtrise parfaitement :** Node.js · React · MySQL · PostgreSQL  
+**Bases solides :** Java · Python · Shopify (Liquid)  
+**Le reste :** je ne connais pas tout parfaitement — mais j'apprends vite et j'aime monter en compétence sur ce que les projets demandent.
 
 **Ce que je peux apporter :**
 - Partir d'un besoin métier et livrer une solution fonctionnelle et scalable
 - Travailler seul ou en équipe, en remote ou en présentiel
 - M'adapter à votre stack si elle diffère de la mienne
+
 
 ---
 
@@ -91,7 +94,7 @@ Je ne connais pas tout parfaitement — mais j'apprends vite et j'aime monter en
 ## 💼 Expériences
 
 **Développeur FullStack** — *Atakama Technologies* (Oct. 2023 – Sept. 2025)  
-Conception d'un portail SaaS de gestion de projets from scratch · Product Ownership · React + Node.js + PostgreSQL + Grafana
+Conception d'un portail SaaS de gestion de projets from scratch · Product Ownership · React + Node.js + PostgreSQL + Grafana + Github Actions
 
 **Développeur FullStack** — *L3M-Holding* (Oct. 2022 – Sept. 2023)  
 App Shopify de gestion de coupons · Thèmes e-commerce personnalisés en Liquid · Node.js + React + PostgreSQL
