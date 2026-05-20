@@ -5,7 +5,7 @@
 ### Développeur FullStack · React · Node.js · Shopify · Python
 
 > Bac+5 en Systèmes d'Information (Chef de projet Data et ia) et un Bac+3 Concepteur Développeur d'Applications · Passionné par la création de produits web qui ont un vrai impact  
-> Je touche à tout — front, back, data, e-commerce — et j'apprends vite ce que je ne connais pas encore.
+> Je touche à tout — front, back, data, e-commerce — et J'aime apprendre de nouvelles techno.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jayson--mooken-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/jayson-mooken/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-En%20cours-lightgrey?style=flat&logo=firefox)](https://jayson-mooken.dev)
