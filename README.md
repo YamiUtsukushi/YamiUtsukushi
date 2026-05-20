@@ -82,12 +82,13 @@ J'ai conçu des applications SaaS de A à Z, développé des thèmes et apps Sho
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
+| [🛍️ Shopify Theme](https://github.com/YamiUtsukushi/shopify-tech-store-theme) | Thème Shopify Online Store 2.0 pour boutique high-tech, basé sur Dawn | Liquid · Shopify |
+| [🍳 Shopify Theme — LD Global](https://github.com/YamiUtsukushi/shopify-kitchen-gadgets-theme) | Thème Shopify Online Store 2.0 pour boutique gadgets de cuisine, basé sur Dawn — sections custom, cart drawer, pages FAQ/Contact/À propos, full responsive | Liquid · Shopify |
 | [🛒 Sneakers Shop React](https://github.com/YamiUtsukushi/sneakers-shop-react) | E-commerce complet avec auth par rôles, panier, favoris, dark mode et dashboard admin | React 18 · Vite · Context API |
 | [🤖 Machine Learning & Deep Learning](https://github.com/YamiUtsukushi/Application_MachineLearning_DeepLearning) | 3 cas pratiques : CNN (CIFAR-10), Random Forest (données bancaires), LSTM (NLP) | Python · TensorFlow · Scikit-Learn |
 | [📊 Web Scraping & Analyse de ventes](https://github.com/YamiUtsukushi/webscraping-analyse-ventes-matplotlib) | Scraping, nettoyage, analyse et visualisation de données de ventes | Python · BeautifulSoup · Pandas · Matplotlib |
 | [🎮 Guess The Code](https://github.com/YamiUtsukushi/guess-the-code) | Jeu de déduction avec niveaux de difficulté, timer, score et historique | Vanilla JS · HTML · CSS |
 | [🎯 Tic-Tac-Toe](https://github.com/YamiUtsukushi/Tic-Tac-Toe) | Jeu en temps réel | Node.js · React |
-| [🛍️ Shopify Theme](https://github.com/YamiUtsukushi/shopify-tech-store-theme) | Thème Shopify Online Store 2.0 pour boutique high-tech, basé sur Dawn | Liquid · Shopify |
 
 ---
 
